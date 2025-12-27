@@ -1,4 +1,21 @@
-This repository contains a production-ready Telegram bot
-with menu navigation, automation logic, and secure deployment setup.
+# Telegram Bot Automation
 
-Designed for business notifications and workflow automation.
+Production-ready Telegram bot with:
+- Modular architecture
+- Bash lifecycle scripts
+- systemd service
+- Secure configuration via environment variables
+
+## Features
+- Menu buttons
+- Easy deployment
+- Automatic restart
+- GitHub-ready structure
+
+## Setup
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
