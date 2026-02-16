@@ -19,3 +19,8 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env
+
+## Контакты
+
+GitHub: [https://github.com/nzuevwork](https://github.com/nzuevwork)
+Email: [n.zuev.work@gmail.com](mailto:n.zuev.work@gmail.com)
